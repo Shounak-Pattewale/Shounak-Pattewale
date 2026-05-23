@@ -9,7 +9,7 @@
 
 <!-- HERO GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shounak-Pattewale/Shounak-Pattewale/master/hero-developer-london-loop.gif" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Shounak-Pattewale/Shounak-Pattewale/master/hero-developer-london-loop.gif" width="50%"/>
 </p>
 
 <!-- STATUS BADGES -->
