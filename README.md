@@ -3,7 +3,6 @@
      Aesthetic: Dark · Purple accent · Code-on-screen · Moody
      ═══════════════════════════════════════════════════════════════ -->
 
-<!-- TOP BANNER — capsule-render is self-hosted on Vercel by the author, very stable -->
 <!-- TOP BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=200&section=header&text=Shounak%20Pattewale&fontSize=46&fontColor=c084fc&animation=twinkling&fontAlignY=38&desc=Python%20%C2%B7%20AI%20Systems%20%C2%B7%20Data%20Engineering%20%C2%B7%20Builder&descAlignY=58&descSize=15&descColor=a78bfa" width="100%"/>
 
@@ -23,17 +22,15 @@
 
 ---
 
-<!-- CODE BLOCK — mirrors the stack.py card on the portfolio hero. Always renders, no external deps. -->
 ```python
 # stack.py
 developer = {
-    "name":       "Shounak Pattewale",
-    "location":   "London, UK 🇬🇧",
-    "education":  "MSc Big Data Science (Distinction) — QMUL",
-    "stack":      ["Python", "Flask", "FastAPI", "MongoDB", "Docker", "PostgreSQL", "Redis"],
-    "currently":  ["ScanTrack — warehouse + 1C ERP", "Pinta Platform — B2B catalog", "shounakdev.tech"],
-    "visa":       "Post Study Work → seeking Skilled Worker sponsorship",
-    "status":     "open_to_work",
+    "name":      "Shounak Pattewale",
+    "location":  "London, UK 🇬🇧",
+    "focus":     ["AI Systems", "Backend Engineering", "Data Pipelines"],
+    "currently": "Building production systems that scale, automate, and think.",
+    "education": "MSc Big Data Science (Distinction) — QMUL",
+    "status":    "open_to_work",
 }
 ```
 
@@ -41,18 +38,24 @@ developer = {
 
 ## 🛠 Stack
 
-<!-- skillicons.dev — self-hosted, extremely reliable -->
+**Core Engineering**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,fastapi,mongodb,postgres,redis&theme=dark&perline=6" />
 </p>
+
+**AI · Data**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,aws&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,bash,aws,cloudflare&theme=dark&perline=6" />
 </p>
+
+**Infrastructure · Tooling**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,vscode,bash&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,vscode&theme=dark&perline=6" />
 </p>
+
+**Frontend**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=notion,cloudflare,tensorflow,figma,obsidian,postman&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,notion&theme=dark&perline=6" />
 </p>
 
 ---
@@ -63,32 +66,28 @@ developer = {
   <tr>
     <td valign="top" width="50%">
       <h3>🏭 ScanTrack</h3>
-      <p>Warehouse inventory platform across <strong>11 branch locations</strong>.<br/>
-      Barcode scanning · 1C ERP integration · Multi-branch queries<br/>
+      <p>Eliminated multi-branch inventory mismatch across <strong>11 warehouse locations</strong> with real-time barcode scanning and 1C ERP sync.<br/><br/>
       <code>Flask · MongoDB · Selectel · Nginx · Gunicorn</code></p>
     </td>
     <td valign="top" width="50%">
       <h3>📦 Pinta Platform</h3>
-      <p>B2B catalog & order system for a Russian logistics distributor.<br/>
-      Multi-branch ordering · Product catalog · Client portal<br/>
+      <p>Automated the full order and catalog flow for a Russian B2B logistics distributor — replacing manual coordination across branches.<br/><br/>
       <code>Flask · MongoDB · Vanilla React</code></p>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
       <h3>🌐 Portfolio + VPS Stack</h3>
-      <p>Self-hosted personal site on a Hostinger VPS.<br/>
-      Traefik · Docker · Let's Encrypt · Claude chat widget<br/>
-      <code>Nginx · Docker · Traefik · HTML/CSS/JS</code></p>
+      <p>Self-hosted personal infrastructure — portfolio, reverse proxy, SSL, and an AI chat agent all running from a single VPS.<br/><br/>
+      <code>Docker · Traefik · Nginx · HTML/CSS/JS</code></p>
       <a href="https://shounakdev.tech">
         <img src="https://img.shields.io/badge/Live-shounakdev.tech-7c3aed?style=flat-square&labelColor=0d0d0d"/>
       </a>
     </td>
     <td valign="top" width="50%">
       <h3>🤖 Hermes AI Agent</h3>
-      <p>Self-hosted AI agent running on VPS with Docker.<br/>
-      Kimi-K2.6 primary · Ollama local fallback<br/>
-      <code>Docker · Traefik · Python · VPS infra</code></p>
+      <p>Self-hosted AI agent with model routing — primary cloud LLM with local Ollama fallback, deployed on personal VPS infrastructure.<br/><br/>
+      <code>Docker · Traefik · Python · Kimi-K2.6 · Ollama</code></p>
     </td>
   </tr>
 </table>
@@ -97,7 +96,6 @@ developer = {
 
 ## 📊 Stats
 
-<!-- GitHub's OFFICIAL activity graph — hosted by GitHub itself, always works -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shounak-Pattewale&theme=github_dark" width="100%"/>
 </p>
@@ -106,28 +104,6 @@ developer = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shounak-Pattewale&theme=github_dark" height="160"/>
   &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shounak-Pattewale&theme=github_dark" height="160"/>
-</p>
-
-<!-- shields.io static badges for key profile facts — zero downtime -->
-<p align="center">
-  <a href="https://github.com/Shounak-Pattewale?tab=followers">
-    <img src="https://img.shields.io/github/followers/Shounak-Pattewale?label=Followers&style=for-the-badge&logo=github&logoColor=c084fc&labelColor=0d0d0d&color=1a0533"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Shounak-Pattewale?tab=stars">
-    <img src="https://img.shields.io/github/stars/Shounak-Pattewale?label=Total%20Stars&style=for-the-badge&logo=github&logoColor=c084fc&labelColor=0d0d0d&color=1a0533&affiliations=OWNER"/>
-  </a>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shounak-Pattewale/Shounak-Pattewale/output/github-snake-dark.svg"/>
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/Shounak-Pattewale/Shounak-Pattewale/output/github-snake-dark.svg"/>
-  </picture>
 </p>
 
 ---
@@ -146,6 +122,17 @@ developer = {
   <a href="mailto:shounakpattewale@gmail.com">
     <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-c084fc?style=for-the-badge&logo=gmail&logoColor=c084fc&labelColor=0d0d0d&color=1a0533"/>
   </a>
+</p>
+
+---
+
+## 🐍
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shounak-Pattewale/Shounak-Pattewale/output/github-snake-dark.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/Shounak-Pattewale/Shounak-Pattewale/output/github-snake-dark.svg"/>
+  </picture>
 </p>
 
 <!-- BOTTOM WAVE -->
