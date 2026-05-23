@@ -6,7 +6,7 @@
 <!-- TOP BANNER — capsule-render is self-hosted on Vercel by the author, very stable -->
 <!-- HERO BANNER — name + title baked directly into GIF, zero gap -->
 <p align="center" style="margin:0;padding:0;">
-  <img src="https://raw.githubusercontent.com/Shounak-Pattewale/Shounak-Pattewale/master/hero-banner.gif" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Shounak-Pattewale/Shounak-Pattewale/master/hero-banner.gif?v=2" width="100%"/>
 </p>
 
 <!-- STATUS BADGES -->
