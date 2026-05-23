@@ -43,10 +43,10 @@ developer = {
   <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github&theme=dark&perline=5" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,vscode&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,vscode,redis&theme=dark&perline=6" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=redis,aws,bash,notion,cloudflare,tensorflow,jupyter&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=aws,bash,notion,cloudflare,tensorflow,jupyter&theme=dark&perline=6" />
 </p>
 
 ---
