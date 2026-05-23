@@ -6,6 +6,9 @@
 <!-- TOP BANNER — capsule-render is self-hosted on Vercel by the author, very stable -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=200&section=header&text=Shounak%20Pattewale&fontSize=46&fontColor=c084fc&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Python%20Developer%20%C2%B7%20London&descAlignY=58&descSize=15&descColor=a78bfa" width="100%"/>
 
+<!-- HERO GIF — matches portfolio banner -->
+<img src="https://raw.githubusercontent.com/Shounak-Pattewale/Shounak-Pattewale/master/hero-developer-london-loop.gif" width="100%"/>
+
 <!-- STATUS BADGES -->
 <p align="center">
   <a href="https://shounakdev.tech">
