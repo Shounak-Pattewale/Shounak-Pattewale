@@ -3,22 +3,21 @@
      Aesthetic: Dark · Purple accent · Code-on-screen · Moody
      ═══════════════════════════════════════════════════════════════ -->
 
-<!-- TOP BANNER — waving, dark gradient matching portfolio bg -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=200&section=header&text=Shounak%20Pattewale&fontSize=46&fontColor=c084fc&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Python%20Developer%20·%20London%20🇬🇧&descAlignY=58&descSize=15&descColor=a78bfa" width="100%"/>
+<!-- TOP BANNER — capsule-render is self-hosted on Vercel by the author, very stable -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=200&section=header&text=Shounak%20Pattewale&fontSize=46&fontColor=c084fc&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Python%20Developer%20%C2%B7%20London&descAlignY=58&descSize=15&descColor=a78bfa" width="100%"/>
 
-<!-- OPEN TO WORK BADGE — matches the pill on portfolio -->
+<!-- OPEN TO WORK BADGE — shields.io (rock solid, CDN-backed) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/●%20OPEN%20TO%20OPPORTUNITIES-LONDON-7c3aed?style=flat-square&labelColor=0d0d0d&color=7c3aed&logo=googlemaps&logoColor=a78bfa"/>
-</p>
-
-<!-- TYPING ANIMATION — same font/colour as portfolio FastAPI tag -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=620&lines=Python+Backend+Engineer;Flask+·+FastAPI+·+MongoDB+·+Docker;MSc+Big+Data+Science+%40+QMUL+(Distinction);Building+ScanTrack+%7C+Pinta+Platform+%7C+Hermes;status%3A+%22open_to_work%22+%F0%9F%9F%A3" />
+  <img src="https://img.shields.io/badge/%E2%97%8F%20OPEN%20TO%20OPPORTUNITIES-LONDON-7c3aed?style=flat-square&labelColor=0d0d0d"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Visa-Skilled%20Worker%20Sponsorship%20Required-a78bfa?style=flat-square&labelColor=0d0d0d"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/MSc-Big%20Data%20Science%20%7C%20QMUL-c084fc?style=flat-square&labelColor=0d0d0d"/>
 </p>
 
 ---
 
-<!-- CODE BLOCK — mirrors the stack.py card on the portfolio hero -->
+<!-- CODE BLOCK — mirrors the stack.py card on the portfolio hero. Always renders, no external deps. -->
 ```python
 # stack.py
 developer = {
@@ -36,7 +35,7 @@ developer = {
 
 ## 🛠 Stack
 
-<!-- Skills icons — dark theme to match portfolio -->
+<!-- skillicons.dev — self-hosted, extremely reliable -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,fastapi,mongodb,postgres&theme=dark&perline=5" />
 </p>
@@ -51,7 +50,6 @@ developer = {
 
 ## 🚀 Projects
 
-<!-- Project cards — dark bg, purple border feel via table -->
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -59,30 +57,29 @@ developer = {
       <p>Warehouse inventory platform across <strong>11 branch locations</strong>.<br/>
       Barcode scanning · 1C ERP integration · Multi-branch queries<br/>
       <code>Flask · MongoDB · Selectel · Nginx · Gunicorn</code></p>
-      <img src="https://img.shields.io/badge/Live-test--srs.ru-7c3aed?style=flat-square&labelColor=0d0d0d"/>
     </td>
     <td valign="top" width="50%">
       <h3>📦 Pinta Platform</h3>
       <p>B2B catalog & order system for a Russian logistics distributor.<br/>
       Multi-branch ordering · Product catalog · Client portal<br/>
       <code>Flask · MongoDB · Vanilla React</code></p>
-      <img src="https://img.shields.io/badge/Live-pintaregion.ru-7c3aed?style=flat-square&labelColor=0d0d0d"/>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
       <h3>🌐 Portfolio + VPS Stack</h3>
       <p>Self-hosted personal site on a Hostinger VPS.<br/>
-      Traefik reverse proxy · Docker · Let's Encrypt · Claude chat widget<br/>
+      Traefik · Docker · Let's Encrypt · Claude chat widget<br/>
       <code>Nginx · Docker · Traefik · HTML/CSS/JS</code></p>
-      <img src="https://img.shields.io/badge/Live-shounakdev.tech-7c3aed?style=flat-square&labelColor=0d0d0d"/>
+      <a href="https://shounakdev.tech">
+        <img src="https://img.shields.io/badge/Live-shounakdev.tech-7c3aed?style=flat-square&labelColor=0d0d0d"/>
+      </a>
     </td>
     <td valign="top" width="50%">
       <h3>🤖 Hermes AI Agent</h3>
       <p>Self-hosted AI agent running on VPS with Docker.<br/>
-      Kimi-K2.6 primary model · Ollama local fallback<br/>
+      Kimi-K2.6 primary · Ollama local fallback<br/>
       <code>Docker · Traefik · Python · VPS infra</code></p>
-      <img src="https://img.shields.io/badge/Infra-shounakdev.tech-7c3aed?style=flat-square&labelColor=0d0d0d"/>
     </td>
   </tr>
 </table>
@@ -91,19 +88,27 @@ developer = {
 
 ## 📊 Stats
 
+<!-- GitHub's OFFICIAL activity graph — hosted by GitHub itself, always works -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shounak-Pattewale&show_icons=true&theme=transparent&hide_border=true&bg_color=0d0d0d&title_color=c084fc&icon_color=7c3aed&text_color=a78bfa&rank_icon=github&include_all_commits=true" height="160"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shounak-Pattewale&layout=compact&theme=transparent&hide_border=true&bg_color=0d0d0d&title_color=c084fc&text_color=a78bfa&langs_count=6" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shounak-Pattewale&theme=github_dark" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shounak-Pattewale&theme=transparent&hide_border=true&background=0d0d0d&stroke=7c3aed&ring=7c3aed&fire=c084fc&currStreakLabel=c084fc&sideLabels=a78bfa&dates=6b7280" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shounak-Pattewale&theme=github_dark" height="160"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shounak-Pattewale&theme=github_dark" height="160"/>
+</p>
+
+<!-- shields.io static badges for key profile facts — zero downtime -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Shounak-Pattewale?label=Followers&style=for-the-badge&logo=github&logoColor=c084fc&labelColor=0d0d0d&color=1a0533"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/Shounak-Pattewale?label=Total%20Stars&style=for-the-badge&logo=github&logoColor=c084fc&labelColor=0d0d0d&color=1a0533&affiliations=OWNER"/>
 </p>
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -126,9 +131,9 @@ developer = {
   </a>
   &nbsp;
   <a href="mailto:shounakpattewale@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shounakpattewale%40gmail.com-c084fc?style=for-the-badge&logo=gmail&logoColor=c084fc&labelColor=0d0d0d&color=1a0533"/>
+    <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-c084fc?style=for-the-badge&logo=gmail&logoColor=c084fc&labelColor=0d0d0d&color=1a0533"/>
   </a>
 </p>
 
-<!-- BOTTOM WAVE — mirrors top -->
+<!-- BOTTOM WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=120&section=footer" width="100%"/>
