@@ -6,11 +6,11 @@
 <!-- TOP BANNER — capsule-render is self-hosted on Vercel by the author, very stable -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=200&section=header&text=Shounak%20Pattewale&fontSize=46&fontColor=c084fc&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Python%20Developer%20%C2%B7%20London&descAlignY=58&descSize=15&descColor=a78bfa" width="100%"/>
 
-<!-- OPEN TO WORK BADGE — shields.io (rock solid, CDN-backed) -->
+<!-- STATUS BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/%E2%97%8F%20OPEN%20TO%20OPPORTUNITIES-LONDON-7c3aed?style=flat-square&labelColor=0d0d0d"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Visa-Skilled%20Worker%20Sponsorship%20Required-a78bfa?style=flat-square&labelColor=0d0d0d"/>
+  <a href="https://shounakdev.tech">
+    <img src="https://img.shields.io/badge/%E2%97%8F%20OPEN%20TO%20OPPORTUNITIES-LONDON%20%26%20INTERNATIONAL-7c3aed?style=flat-square&labelColor=0d0d0d"/>
+  </a>
   &nbsp;
   <img src="https://img.shields.io/badge/MSc-Big%20Data%20Science%20%7C%20QMUL-c084fc?style=flat-square&labelColor=0d0d0d"/>
 </p>
@@ -101,9 +101,13 @@ developer = {
 
 <!-- shields.io static badges for key profile facts — zero downtime -->
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Shounak-Pattewale?label=Followers&style=for-the-badge&logo=github&logoColor=c084fc&labelColor=0d0d0d&color=1a0533"/>
+  <a href="https://github.com/Shounak-Pattewale?tab=followers">
+    <img src="https://img.shields.io/github/followers/Shounak-Pattewale?label=Followers&style=for-the-badge&logo=github&logoColor=c084fc&labelColor=0d0d0d&color=1a0533"/>
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/github/stars/Shounak-Pattewale?label=Total%20Stars&style=for-the-badge&logo=github&logoColor=c084fc&labelColor=0d0d0d&color=1a0533&affiliations=OWNER"/>
+  <a href="https://github.com/Shounak-Pattewale?tab=stars">
+    <img src="https://img.shields.io/github/stars/Shounak-Pattewale?label=Total%20Stars&style=for-the-badge&logo=github&logoColor=c084fc&labelColor=0d0d0d&color=1a0533&affiliations=OWNER"/>
+  </a>
 </p>
 
 ---
