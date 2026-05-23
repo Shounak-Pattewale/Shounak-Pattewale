@@ -45,6 +45,9 @@ developer = {
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,react,vscode&theme=dark&perline=5" />
 </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=redis,aws,bash,notion,cloudflare,tensorflow,jupyter&theme=dark&perline=7" />
+</p>
 
 ---
 
