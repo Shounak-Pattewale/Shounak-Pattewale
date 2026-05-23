@@ -37,16 +37,16 @@ developer = {
 
 <!-- skillicons.dev — self-hosted, extremely reliable -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,mongodb,postgres&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,mongodb,postgres,redis&theme=dark&perline=6" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,aws&theme=dark&perline=6" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,vscode,redis&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,vscode,bash&theme=dark&perline=6" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,bash,notion,cloudflare,tensorflow,jupyter&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=notion,cloudflare,tensorflow,figma,obsidian,postman&theme=dark&perline=6" />
 </p>
 
 ---
